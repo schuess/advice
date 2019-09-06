@@ -8,4 +8,6 @@ For each, I did the following:
 - conducted or managed the analysis
 - verified the results
 - wrote the white paper copy
-- typeset the final paper
+- typeset the final paper in inDesign
+- created API documentation and data dictionaries
+- created training sessions and FAQs for sales team
