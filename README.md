@@ -1,4 +1,4 @@
-# Writing
+# White papers
 
 ### This repo contains a few public-facing white papers (i.e., sharing is approved by my firm) that show a range of analytical work
 
