@@ -1,7 +1,7 @@
 #### Wall Street Parables
   * https://blogs.wsj.com/moneybeat/2018/07/06/i-found-wall-streets-platitude-poem/
 
-#### Feynman
+#### Feynman (H/T: https://twitter.com/ProfFeynman/status/1159529303198953474)
   1. See failure as a beginning.
   1. Never stop learning.
   1. Assume nothing, question everything.
