@@ -13,7 +13,9 @@
   1. Love what you do. 
 
 #### Advice to writers
-  * link: https://soundcloud.com/mark-oppenheimer-828438878/25-lectures-in-under-an-hour
+  * 25 Lectures in Under an Hour (for Mark Oppenheimer's class)
+    * link: https://soundcloud.com/mark-oppenheimer-828438878/25-lectures-in-under-an-hour
+
   * Write/"writers write"/keep writing (multiple contributors)
   * Persist (multiple)
   * Elements of a story:
