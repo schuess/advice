@@ -24,5 +24,5 @@
   * Learn a foreign language: inculcates discipline and humility, reveals first language in a new light
   * Look for the "terrible fish", i.e., the strangeness or estrangement
   * Tap into your physiology, read your work alound and notice your emotional reactions
+  * Embrace (really) bad first drafts (multiple)
   * 
-
