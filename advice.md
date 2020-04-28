@@ -27,6 +27,9 @@
   * Embrace (really) bad first drafts (multiple)
   * 
 
+  Elmore Leonard
+  * "I leave out the parts that people skip."
+
 #### Advice to Negotiators (Black Swan Group)
   * Don't follow the Golden Rule; instead treat your counterpart at *they* wish to be treated
   * Three types of negotiators: Analysts, Accommodators, Assertives
