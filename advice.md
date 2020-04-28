@@ -1,7 +1,7 @@
 #### Wall Street Parables
   * https://blogs.wsj.com/moneybeat/2018/07/06/i-found-wall-streets-platitude-poem/
 
-#### Feynman (H/T: https://twitter.com/ProfFeynman/status/1159529303198953474)
+#### From Feynman (H/T: https://twitter.com/ProfFeynman/status/1159529303198953474)
   1. See failure as a beginning.
   1. Never stop learning.
   1. Assume nothing, question everything.
@@ -12,7 +12,7 @@
   1. Take initiative.
   1. Love what you do. 
 
-#### Advice to writers
+#### Advice to Writers
   * 25 Lectures in Under an Hour (for Mark Oppenheimer's class)
     * link: https://soundcloud.com/mark-oppenheimer-828438878/25-lectures-in-under-an-hour
 
@@ -26,3 +26,8 @@
   * Tap into your physiology, read your work alound and notice your emotional reactions
   * Embrace (really) bad first drafts (multiple)
   * 
+
+#### Advice to Negotiators (Black Swan Group)
+  * Don't follow the Golden Rule; instead treat your counterpart at *they* wish to be treated
+  * Three types of negotiators: Analysts, Accommodators, Assertives
+
