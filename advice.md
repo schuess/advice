@@ -52,3 +52,10 @@
 
   https://techcrunch.com/2020/04/26/ryan-petersen-flexport/
 
+#### General advice
+  * "Pursue virtuosity in fundamental skills":
+    * https://notes.andymatuschak.org/%C2%A7Taking_knowledge_work_seriously_(Stripe_convergence_talk%2C_2019-12-12)
+  * Pick a strategy and pursue it/improve as you go -- don't spend too much time optimizing in advance
+
+
+
