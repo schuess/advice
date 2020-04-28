@@ -31,3 +31,21 @@
   * Don't follow the Golden Rule; instead treat your counterpart at *they* wish to be treated
   * Three types of negotiators: Analysts, Accommodators, Assertives
 
+#### Six Stakeholders (Charlie Munger, Ryan Petersen of Flexport)
+  1. Clients
+  1. Vendors
+  1. Employees
+  1. Investors
+  1. Regulators/Compliance
+  1. Communities
+
+#### Company Values
+  1. Why?: Why do you exist? What’s your purpose, mission, vision, and impact?
+  1. Who?: Who do you hire and what values and behaviors do you look for?
+  1. What?: What are you focused on and what metrics do you use to measure success?
+  1. How?: How do decisions get made and how do you shorten the feedback loop for improvement?
+  1. When?: When should things get done and when should you ship your product?
+  1. Where?: Where does your team feel like it belongs and how do you become more inclusive?
+
+  https://techcrunch.com/2020/04/26/ryan-petersen-flexport/
+
