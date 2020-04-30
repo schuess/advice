@@ -56,6 +56,34 @@
   * "Pursue virtuosity in fundamental skills":
     * https://notes.andymatuschak.org/%C2%A7Taking_knowledge_work_seriously_(Stripe_convergence_talk%2C_2019-12-12)
   * Pick a strategy and pursue it/improve as you go -- don't spend too much time optimizing in advance
+  * https://cutlefish.substack.com/p/tbm-1653-the-boring-bits
+  * summarize: https://github.com/j2kun/essays/blob/master/how-i-do-a-lot.md
 
-
-
+#### Making money
+  * Nathan Barry
+    * start small
+    * making money is a skill, you can practice and get better
+    * make consistent progress every day
+    * serve a single audience
+    * teach everything you know
+  * Patrick McKenzie
+    * make decisions that will matter in 40 years
+    * make more decisions, faster (increasing luck surface area)
+    * create small amounts of value all the time
+    * don't ask 'what should I build?' ask 'who should I serve?'
+      * people with money, whom you're interested to talk to, with problems you can solve
+    * talk to people: what are their problems, what do they need?
+    * platform before product -- create an audience first by being 'helpful on the internet'
+        * create 'friend catchers', e.g., learn to cook, connect people, solve their problems
+    * write the '201' version (instead of beginner '101')
+    * create calculators to replace spreadsheets
+    * curated lists of resources (PersonalMBA example)
+    * cheatsheets
+    * collect emails!
+    * 'grind' (e.g., write 1000 words per day)
+    * charge $250/hour, $10,000 per week
+    * become expert, bring intensity
+    * 'move fast, make things'
+    * go to the gym like it is your job
+  * copyhackers.com: Joanna ?
+  * emulate chefs: publish recipes and techniques
