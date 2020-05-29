@@ -33,7 +33,15 @@
   * bring your reader to the scene: smells, textures. Use abstractions sparingly.
   * read a lot, especially if you plan to have kids later
   * give yourself a deadline with a person to show your work to at the end (cf. Don't Read Poetry)
-
+  * good writing is good thinking and good editing
+  * treat it like a workout -- routine, non-romantic. Set a wordcount, do the work without worrying or having a goal. demystify the process. [make it like brushing your teeth or doing workout reps] --> look up who said this one, I think it is the best advice. "Dispense with every idea that it is a romantic activity)."
+  * Roy Peter Clark: Avoid adjectives
+  * Always remember how you talk, it's where you are most yourself
+  * Risk disappointing your usual audience
+  * automatic writing --just write until the critic leaves -- the critic leaves after five minutes
+  * Derek Green: Be bold, think big, take chances -- you can always rein it in. Creating is an act of courage and hope.
+  * keep singing, working, creating
+  * be aware that the first impulse is laziness -- find the complicated, hard areas. Earn the privilege of ambition. Gather power, gain authority (interesting word in this context! author-ity) "Recoup your losses." "Do not despair, do not presume."
 
   Elmore Leonard
   * "I leave out the parts that people skip."
