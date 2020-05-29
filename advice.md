@@ -24,8 +24,16 @@
   * Learn a foreign language: inculcates discipline and humility, reveals first language in a new light
   * Look for the "terrible fish", i.e., the strangeness or estrangement
   * Tap into your physiology, read your work alound and notice your emotional reactions
-  * Embrace (really) bad first drafts (multiple)
-  * 
+  * Embrace (really) bad first drafts (multiple), then edit; read aloud (again)
+  * speaking words: be short, punch, and clear; use one-syllable words and clear structure: A then B then C
+  * make discoveries; write teh beats or scenes you are eager to write, then fill in
+  * keep trying new things, SFD, don't give in to self-doubt
+  * critically examine what you're drawn to -- what interests you? what in your psychology makes that interesting?
+  * know where you are in place and time. describe and explain them, make them come alive with detail. "Nothing happens nowhere."
+  * bring your reader to the scene: smells, textures. Use abstractions sparingly.
+  * read a lot, especially if you plan to have kids later
+  * give yourself a deadline with a person to show your work to at the end (cf. Don't Read Poetry)
+
 
   Elmore Leonard
   * "I leave out the parts that people skip."
